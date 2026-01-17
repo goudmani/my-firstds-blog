@@ -11,6 +11,13 @@ website:
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
+
+listing:
+    contents: posts      # Tells Quarto where the blog posts are
+    sort: "date desc"    # Shows newest posts first
+    type: default        # 'default' or 'grid' is required to show images
+    categories: true     # Enables the category sidebar you see in your screenshot
+
 format:
   html:
     theme:
