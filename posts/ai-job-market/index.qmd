@@ -7,7 +7,7 @@ categories: [Analysis, Economics, Data Science]
 page-layout: article # Options: article (centered), full (wide), or custom
 toc: true             
 toc-location: left   
-image: "feature-image.jpg" 
+image: "30160.jpeg"
 bibliography: references.bib
 
 ---
