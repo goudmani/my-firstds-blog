@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/ai-job-market/index.html",
+    "href": "posts/ai-job-market/index.html",
+    "title": "Displaced or Augmented? Navigating the Shift in the AI Labor Market",
+    "section": "",
+    "text": "The main topic of my blog post is the impact of Artificial Intelligence (AI) on the labour market specifically focusing on the tension between job displacement and job creation. Rather than viewing AI as a simple replacement for workers, the post explores how technology transforms roles through automation of routine tasks and augmentation of human productivity. As a reader of this blog, you are not expected to know the knits and grits of the AI world, I have ensured that any mention of data science jargons are followed by an easy explanation of the concept.\n\n\nBefore we jump into the analysis, lets begin with a simple question “What is Artificial Intelligence?” As Ibrahim Kareem Kazeem (2024) explains imagine you’re shopping online, and the website starts recommending products you might like based on your past purchases. That’s a simple example of AI in action! AI is a machine that can simulate human intelligence by learning from and adapting to data. It’s not about creating robots that will take over the world but rather tools that can analyze information, make decisions, and solve problems in ways once thought to be uniquely beyond human capabilities. How does it work? a massive amount of data is collected and applied to mathematical models, or algorithms (step-by-step set of instructions or rules designed to solve a specific problem or perform a computation), which use the information to recognize patterns and make predictions in a process known as training. Once algorithms have been trained, they are deployed within various applications, where they continuously learn from and adapt to new data. This allows AI systems to perform complex tasks like image recognition, language processing and data analysis with greater accuracy and efficiency over time. Glover and Rodriguez (2025)\n\n\nNow that you have a picture about AI and its capabilites, let’s head to the next question “Why are we worried about AI stealing our jobs?” This might sound bizzare to our parents who grew up without much knowledge about AI. According to them AI meant Autnomous Robots that are capable of replicating humans (Yes!, I’m talking about Terminator). As we move into 2026, the reality is far more nuanced. We are not seeing humanoid soldiers in the streets, but we are seeing autonomous platforms and software intended to eliminate manual, time-consuming labor. AI-powered technology is currently and drastically changing the business landscape by accelerating procedures, content creation, and complex decision-making. People are naturally curious—and often anxious—about how this influx will affect employment and the value of human workers as these tools become more prevalent across every major industry. The question we must answer is not whether AI will change our jobs, but whether it will replace us or simply evolve the tools we use to do them.\n\n\n\n\n\n\nFigure 1: Industries Heavily Reliant on AI"
+  },
+  {
+    "objectID": "posts/ai-job-market/index.html#introduction",
+    "href": "posts/ai-job-market/index.html#introduction",
+    "title": "Displaced or Augmented? Navigating the Shift in the AI Labor Market",
+    "section": "",
+    "text": "The main topic of my blog post is the impact of Artificial Intelligence (AI) on the labour market specifically focusing on the tension between job displacement and job creation. Rather than viewing AI as a simple replacement for workers, the post explores how technology transforms roles through automation of routine tasks and augmentation of human productivity. As a reader of this blog, you are not expected to know the knits and grits of the AI world, I have ensured that any mention of data science jargons are followed by an easy explanation of the concept.\n\n\nBefore we jump into the analysis, lets begin with a simple question “What is Artificial Intelligence?” As Ibrahim Kareem Kazeem (2024) explains imagine you’re shopping online, and the website starts recommending products you might like based on your past purchases. That’s a simple example of AI in action! AI is a machine that can simulate human intelligence by learning from and adapting to data. It’s not about creating robots that will take over the world but rather tools that can analyze information, make decisions, and solve problems in ways once thought to be uniquely beyond human capabilities. How does it work? a massive amount of data is collected and applied to mathematical models, or algorithms (step-by-step set of instructions or rules designed to solve a specific problem or perform a computation), which use the information to recognize patterns and make predictions in a process known as training. Once algorithms have been trained, they are deployed within various applications, where they continuously learn from and adapt to new data. This allows AI systems to perform complex tasks like image recognition, language processing and data analysis with greater accuracy and efficiency over time. Glover and Rodriguez (2025)\n\n\nNow that you have a picture about AI and its capabilites, let’s head to the next question “Why are we worried about AI stealing our jobs?” This might sound bizzare to our parents who grew up without much knowledge about AI. According to them AI meant Autnomous Robots that are capable of replicating humans (Yes!, I’m talking about Terminator). As we move into 2026, the reality is far more nuanced. We are not seeing humanoid soldiers in the streets, but we are seeing autonomous platforms and software intended to eliminate manual, time-consuming labor. AI-powered technology is currently and drastically changing the business landscape by accelerating procedures, content creation, and complex decision-making. People are naturally curious—and often anxious—about how this influx will affect employment and the value of human workers as these tools become more prevalent across every major industry. The question we must answer is not whether AI will change our jobs, but whether it will replace us or simply evolve the tools we use to do them.\n\n\n\n\n\n\nFigure 1: Industries Heavily Reliant on AI"
+  },
+  {
+    "objectID": "posts/ai-job-market/index.html#defining-the-tools-beyond-the-buzzwords",
+    "href": "posts/ai-job-market/index.html#defining-the-tools-beyond-the-buzzwords",
+    "title": "Displaced or Augmented? Navigating the Shift in the AI Labor Market",
+    "section": "Defining the “Tools”: Beyond the Buzzwords",
+    "text": "Defining the “Tools”: Beyond the Buzzwords"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Blogs",
+    "section": "",
+    "text": "Displaced or Augmented? Navigating the Shift in the AI Labor Market\n\n\n\nAnalysis\n\nEconomics\n\nData Science\n\n\n\n\n\n\n\n\n\nJan 17, 2026\n\n\nManikanth Goud Gurujala\n\n\n\n\n\nNo matching items"
+  }
+]

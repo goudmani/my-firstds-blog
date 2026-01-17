@@ -1,0 +1,6 @@
+/* css styles */
+/* Justify all paragraphs in the main content area */
+div.quarto-post p, 
+#quarto-document-content p {
+  text-align: justify;
+}
