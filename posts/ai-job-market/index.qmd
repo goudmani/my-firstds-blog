@@ -7,7 +7,7 @@ categories: [Analysis, Economics, Data Science]
 page-layout: article # Options: article (centered), full (wide), or custom
 toc: true             
 toc-location: left   
-image: "30160.jpeg"
+image: "thumbnail.png"
 bibliography: references.bib
 
 ---
@@ -31,9 +31,34 @@ Before we jump into the analysis, lets begin with a simple question **"What is A
 ## Defining the "Tools": Beyond the Buzzwords
 
 ::: {.justify}
- 
+It is estimated that AI could replace approximately 85 million jobs globally by 2026 as machines take over routine and language-based tasks. In the United States, roughly 40% of all hours worked are susceptible to the influence of **Large Language Models (LLMs)** (@nexford2025). A Large Language Model (LLM) is essentially a highly advanced "prediction engine" that has been trained by looking at billions of examples of human writing to guess which word should come next in a sentence. Unlike traditional computer programs that follow strict rules, these models use digital "neural networks" to learn the natural patterns of language on their own, allowing them to communicate in a way that sounds remarkably human (@dataiku2024llm).
+Job displacement due to AI is a key factor influencing economic performance in the next few decades as automation continues to permeate all fields of work. AI can lead to significant job displacement, potentially increasing income inequality, particularly among low-skilled workers or those lacking higher education, as many jobs created by automation require advanced skills. If displaced workers receive support for skill development and are reemployed within a year, automation could boost the economy by maintaining full employment. However, without adequate support and training, low-skilled workers who remain unemployed for several years could see a decline in average wages, leading to serious economic consequences in the short and medium term. As automation becomes more integral to the economy, concerns about its impact on global GDP persist. A study by PricewaterhouseCoopers (PwC) estimated that AI could increase global GDP by up to 14%—or around $15.7 trillion USD—by 2030 due to accelerated development and integration. Similarly, McKinsey & Company projected that AI could boost global GDP growth by about 1.2% annually, primarily through labor substitution with automation and increased innovation in products and services. While the rapid development of AI could lead to the highest productivity growth yet, this growth might not be evenly distributed if unemployment rates continue to rise, ultimately diminishing domestic consumption (@alarami2024labour). 
+
 :::
 
+## Creation of Jobs 
+
+::: {.justify}
+Despite displacement, AI is projected to add $13 trillion to global economic activity by 2030, fostering an environment for net job growth. Many experts believe the technology will ultimately create more occupations than it destroys. **The Shift to Augmentation:** Rather than simple replacement, many roles will be "augmented," meaning AI handles data-heavy lifting while humans provide oversight. This creates a demand for new specialized roles such as prompt engineers, AI editors, and AI quality controllers (@nexford2025). The rapid advancement of AI is fundamentally reshaping the workforce by acting as both a job creator and a transformative force in recruitment, necessitating a strategic shift in human skills. Beyond automating routine tasks, AI has introduced specialized roles such as Machine Learning Engineers, NLP Specialists, AI Ethicists, and Prompt Engineers @fig-job to develop and oversee these technologies. While AI enhances hiring efficiency and supports retention analysis, it poses significant challenges regarding algorithmic bias if training data lacks demographic diversity. Consequently, the modern labor market is pivoting toward "meta skills" and cognitive abilities—including analytical thinking, creative thinking, and technological literacy—as essential tools for workers to stay competitive and ensure meaningful human contribution in an increasingly automated economy (@usd2026aiimpact).
+
+![Rise of jobs in IT industry](net-job-creation-growth.png){#fig-job width=80%}
+:::
+
+## Analysis 
+
+::: {.justify}
+The most powerful way to understand these shifts is through multi-source data analysis. To get a true insight into the labor market, data scientists don't just look at one spreadsheet; they triangulate information from diverse origins. For example, we can combine Structured Data (like Bureau of Labor Statistics reports on industry-wide employment) with Unstructured Data (like the sentiment of employees on social media or the specific keywords used in new job postings).
+
+By analyzing these diverse datasets, we can make informed decisions rather than acting on fear. For instance, data from Statista shows that while 66% of tasks in banking have high potential for AI transformation, only 18% of tasks in the chemical industry share that risk. This insight allows a professional to decide where to invest in reskilling. If the data shows that an industry is "language-heavy," the best decision is to learn to use AI as a co-pilot; if an industry is "manual-heavy," the focus should be on how AI can assist with predictive maintenance or safety. Data analysis transforms the "unknown" of AI into a roadmap for career longevity.
+
+![Analysis Pipeline](roadmap.png){#fig-roadmap width=80%}
+:::
+
+## Conclusion: Future Prospects
+
+::: {.justify}
+The transition into an AI-augmented economy is not a science fiction movie; it is a fundamental shift in how we define value in the workplace. While the data shows significant displacement in routine roles, it also highlights a future where human capabilities are amplified rather than erased.
+:::
 
 
 

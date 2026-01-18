@@ -1,5 +1,15 @@
 [
   {
+    "listing": "/about.html",
+    "items": [
+      "/posts/ai-job-market/index.html"
+    ]
+  },
+  {
+    "listing": "/posts/ai-job-market/index.html",
+    "items": []
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/posts/ai-job-market/index.html"
