@@ -1,6 +1,6 @@
 ---
 title: "Displaced or Augmented? Navigating the Shift in the AI Labor Market"
-author: "Manikanth Goud Gurujala"
+author: "Anonymous"
 date: "2026-01-17"
 categories: [Analysis, Economics, Data Science]
 # Layout Options
